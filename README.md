@@ -1,4 +1,18 @@
-# Final Report
+## My Contribution
+
+This project was completed as a team project.
+
+My contributions include:
+- Software structure design
+- LLM research and selection
+- Backend （LLM management,Http handler,etc）
+- Presentation and Demo
+- User Guide
+- Reproducibility QA
+
+Original repository:
+https://github.com/DravenCat/LLMInferenceService
+
 ## LLM Inference Service
 ### Team member
 
